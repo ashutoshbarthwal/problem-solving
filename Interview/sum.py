@@ -40,25 +40,25 @@ def sumArray(a,b):
     return sum[::-1]
 
 print(sumArray(a,b))
-Block
-{
-    val : 1
-    next : Block(2)
-    ladder : Block(6)
-    snake: None
-}
-{
-    1:6,
-    99:2
-}
+# Block
+# {
+#     val : 1
+#     next : Block(2)
+#     ladder : Block(6)
+#     snake: None
+# }
+# {
+#     1:6,
+#     99:2
+# }
 
-current = Block(6)
-#
-Player
-Block
-Ladder [Block -> Block]
-Snake [Block -> Block]
-Move
+# current = Block(6)
+# #
+# Player
+# Block
+# Ladder [Block -> Block]
+# Snake [Block -> Block]
+# Move
 
 
 
